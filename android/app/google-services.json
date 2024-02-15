@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252219952392",
+    "project_id": "frontend-dd6d1",
+    "storage_bucket": "frontend-dd6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252219952392:android:976790accef71536fdf0bd",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCypuqYfy2-28GaFQuY67fxxnH2tU_ioZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
